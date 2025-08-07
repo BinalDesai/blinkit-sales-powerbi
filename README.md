@@ -51,10 +51,7 @@ FROM blinkit_data;
 
 select cast(avg(rating) as decimal(10,2))as avg_rating from blinkit_data;
 
- 
-
 Granular Requirements
-
 1.Total Sales by Fat Content
 
 Objective: Analyze the impact of fat content on total sales.

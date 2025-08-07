@@ -47,7 +47,8 @@ It includes fields like:
 
 ## Screenshots
 
-https://github.com/BinalDesai/blinkit-sales-powerbi/blob/main/blinkit_dashboard_overview.png.png
+
+![Blinkit Dashboard Overview](images/blinkit_dashboard_overview.png.png)
 *Overview of key KPIs and sales distribution.*
 
 

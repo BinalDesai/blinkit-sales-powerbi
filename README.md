@@ -5,10 +5,10 @@ This project involves analyzing Blinkit product sales data to uncover insights r
 
 Data Source
 The dataset contains Blinkit transactional sales data including:
-•Item details (Type, Fat Content)
-•Sales amount
-•Customer ratings
-•Outlet information (Location, Size, Establishment Year, Type)
+• Item details (Type, Fat Content)
+• Sales amount
+• Customer ratings
+• Outlet information (Location, Size, Establishment Year, Type)
 See all the data imported:
 select * from blinkit_data;
 

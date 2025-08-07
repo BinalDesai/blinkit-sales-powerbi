@@ -3,7 +3,7 @@
 ## Project Overview
 This project involves analyzing Blinkit’s retail sales data to uncover insights on product performance, customer behavior, and outlet characteristics. The goal is to support business stakeholders in understanding key sales drivers and making data-informed decisions for optimization.
 
-## ⚙Tech Stack
+## Tech Stack
 - **SQL:** Data cleaning, transformation, and aggregation
 - **Power BI:** Interactive dashboards and data visualization
 - **Excel:** Data review and formatting (optional)
@@ -47,8 +47,7 @@ It includes fields like:
 
 ## Screenshots
 
-blinkit_dashboard_overview.png.png 
+https://github.com/BinalDesai/blinkit-sales-powerbi/blob/main/blinkit_dashboard_overview.png.png
 *Overview of key KPIs and sales distribution.*
 
-## 📁 Repository Structure
 

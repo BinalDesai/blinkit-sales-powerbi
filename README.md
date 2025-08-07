@@ -45,10 +45,6 @@ It includes fields like:
 - **Customer Rating Trends**
 - **Outlet Establishment Year vs. Sales**
 
-## Screenshots
 
-
-![Blinkit Dashboard Overview](images/blinkit_dashboard_overview.png.png)
-*Overview of key KPIs and sales distribution.*
 
 
